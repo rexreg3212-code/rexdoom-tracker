@@ -1,5 +1,5 @@
 import { useEffect as reactUseEffect, useState } from "react";
-import "@/App.css";
+import "./App.css";
 import axios from "axios";
 import {
   BarChart3,
